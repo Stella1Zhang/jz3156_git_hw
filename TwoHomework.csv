@@ -1,4 +1,8 @@
 home
 work
 two
+<<<<<<< HEAD
 Made a different change this time
+=======
+I made a change in this line
+>>>>>>> feature1
